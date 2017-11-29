@@ -1,0 +1,8 @@
+{
+  "name": "alvaroApp",
+  "app_id": "999b9510",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
